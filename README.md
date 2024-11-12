@@ -4,6 +4,7 @@ Pitt Panthers
 John Serdy - JRS498@pitt.edu
 Graham Cohick - GMC134@pitt.edu
 Leonard Aiken- Lea116@pitt.edu
+Sarthak Khandelwal - SAK721@pitt.edu
 
 Sarthak
 https://data.wprdc.org/dataset/city-of-pittsburgh-markings - Locations of intersections within the city
