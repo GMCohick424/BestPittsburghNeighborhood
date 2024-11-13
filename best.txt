@@ -2,3 +2,9 @@ Graham:
 #1 Brookline
 #2 Greenfield
 #3 California-Kirkbride
+
+John:
+Neighborhoods with 5 or more speedbumps
+Squirrel Hill South: 16
+North Oakland: 6
+Carrick: 9
