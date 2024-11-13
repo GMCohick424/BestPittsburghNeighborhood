@@ -4,7 +4,7 @@ Graham:
 #3 California-Kirkbride
 
 John:
-Neighborhoods with 5 or more speedbumps
+Neighborhoods with 5 or more speedbumps (So the final will not be one of these)
 Squirrel Hill South: 16
 North Oakland: 6
 Carrick: 9
