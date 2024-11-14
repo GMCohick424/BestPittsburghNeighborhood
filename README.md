@@ -1,10 +1,10 @@
 
 # Pitt Panthers
-
+## Names and emails
 - John Serdy - JRS498@pitt.edu
 - Graham Cohick - GMC134@pitt.edu
-Leonard Aiken- Lea116@pitt.edu
-Sarthak Khandelwal - SAK721@pitt.edu
+- Leonard Aiken - Lea116@pitt.edu
+- Sarthak Khandelwal - SAK721@pitt.edu
 
 Sarthak
 [https://data.wprdc.org/dataset/city-of-pittsburgh-markings](https://data.wprdc.org/dataset/city-traffic-signs/resource/d078a6b5-83a3-4723-a3a9-5371cfe1cc0c) - Locations of intersections within the city
